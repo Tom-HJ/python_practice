@@ -2,6 +2,7 @@
 
 이 프로젝트는 Python 연습을 위해 개발되었다.  
 이 프로젝트는 다음을 연습한다.  
+
 1. Basic Syntax.   
 2. Variable Types.   
 3. Basic Operators.   
